@@ -19,7 +19,7 @@
 ### 2. Algorithm Design and Function
 
 << Insert Algorithm Flowchart >>
-![flow_chat.png](attachment:flow_chat.png)
+![flow_chat.png](https://github.com/datasolver/Udacity_AI_for_Healthcare/blob/master/pneumonia_detection_my_submission/flow_chat.png)
 
 **DICOM Checking Steps:**
 
@@ -33,7 +33,7 @@
    2. Image resizing 
    
 **CNN Architecture:**
-![my_model4_architecture.png](attachment:my_model4_architecture.png)
+![my_model4_architecture.png](https://github.com/datasolver/Udacity_AI_for_Healthcare/blob/master/pneumonia_detection_my_submission/my_model4_architecture.png)
 
 ### 3. Algorithm Training
 
@@ -52,11 +52,11 @@
 * Layers added to pre-existing architecture - dropouts and three fully connected layers 1024, 512 and 256
 
 << Insert algorithm training performance visualization >> 
-![model4_performance_plots.png](attachment:model4_performance_plots.png)
+![model4_performance_plots.png](https://github.com/datasolver/Udacity_AI_for_Healthcare/blob/master/pneumonia_detection_my_submission/model4_performance_plots.png)
 
 
 << Insert P-R curve >>
-![model4_PR_plot.png]("./model4_PR_plot.png")
+![model4_PR_plot.png](https://github.com/datasolver/Udacity_AI_for_Healthcare/blob/master/pneumonia_detection_my_submission//model4_PR_plot.png)
 
 **Final Threshold and Explanation:** Final threshold = 0.387. This was the threshold that maximized F1_score (@ F1 score = 0.371). It corresponded to a 25% precision and 71% recall.
 
