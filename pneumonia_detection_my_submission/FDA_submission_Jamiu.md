@@ -56,7 +56,7 @@
 
 
 << Insert P-R curve >>
-![model4_PR_plot.png](https://github.com/datasolver/Udacity_AI_for_Healthcare/blob/master/pneumonia_detection_my_submission/model4_PR_plot.png)
+![model4_PR_plot.png]("./model4_PR_plot.png")
 
 **Final Threshold and Explanation:** Final threshold = 0.387. This was the threshold that maximized F1_score (@ F1 score = 0.371). It corresponded to a 25% precision and 71% recall.
 
