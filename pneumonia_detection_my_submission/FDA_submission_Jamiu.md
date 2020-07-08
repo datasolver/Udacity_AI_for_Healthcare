@@ -16,7 +16,6 @@
 
 **Clinical Impact of Performance:** This algorithm's performance shows that it will be useful for screening chest x-rays for pneumonia and may also be used for workflow prioritization. 
 
-
 ### 2. Algorithm Design and Function
 
 << Insert Algorithm Flowchart >>
